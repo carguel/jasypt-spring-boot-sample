@@ -1,0 +1,9 @@
+itemConfig:
+  configurationName: my configuration
+  password: ENC(me4MthXlouNVfrQR5aMC3LrkHddbpBab) 
+  items:
+    - name: item1
+      value: 1
+      
+    - name: item2
+      value: 2  
